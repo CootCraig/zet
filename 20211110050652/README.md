@@ -1,11 +1,8 @@
 # Adapt the Zettelkasten technique of rwxrob
 
-[Personal Zettelkasten of @rwxrob - github](https://github.com/rwxrob/zet)
-
-[rwxrob zet Readme](https://github.com/rwxrob/zet/blob/main/README.md)
-
 Related:
 
+* [Personal Zettelkasten of @rwxrob - github](https://github.com/rwxrob/zet)
 * [20210810144945](https://github.com/rwxrob/zet/tree/main/20210810144945/) Niklas Luhmann, Father of Zettelkasten
 * [20210502004642](https://github.com/rwxrob/zet/tree/main/20210502004642/) ZettelRepos, Zettelkasten with Just Git and GitHub
 * [20210502051234](https://github.com/rwxrob/zet/tree/main/20210502051234/) Isolated Zettelkasten Repos are Searchable
